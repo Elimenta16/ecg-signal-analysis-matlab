@@ -45,8 +45,7 @@ delineation, instantaneous heart rate, and an educational summary.
 
 ![ECG analysis - Channel 10](channel10.png)
 
-## Disclaimer<img width="1916" height="1017" alt="channel10" src="https://github.com/user-attachments/assets/061c74d1-f9f1-4775-9b42-12bbdb083be7" />
-<img width="1912" height="1017" alt="channel6" src="https://github.com/user-attachments/assets/b2cdb8e5-1729-459c-ae02-d3c5812e7466" />
+## Disclaimer
 
 
 This is an educational signal-processing project. It is not intended for clinical diagnosis, treatment, or medical decision-making.
