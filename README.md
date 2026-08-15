@@ -32,6 +32,19 @@ Educational MATLAB project for ECG signal processing and visualization.
 3. Open and run `appecg1.mlapp`, or run `main.m`.
 4. Select a channel and analysis duration.
 
+ ## Application Preview
+
+The application can analyze different ECG channels and display PQRST
+delineation, instantaneous heart rate, and an educational summary.
+
+### Channel 6
+
+![ECG analysis - Channel 6](channel6.png)
+
+### Channel 10
+
+![ECG analysis - Channel 10](channel10.png)
+
 ## Disclaimer
 
 This is an educational signal-processing project. It is not intended for clinical diagnosis, treatment, or medical decision-making.
